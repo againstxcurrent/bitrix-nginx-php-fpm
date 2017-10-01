@@ -1,7 +1,7 @@
 ## Versioning
 We are now introducing versioning so users can stick to specific versions of software. As we are dealing with three upstream sources (nginx, php and alpine) plus our own scripts this all gets a little complex, but this document will provide a definitive source of tags and versions.
 
-We will use the [semver](http://ricostacruz.com/cheatsheets/semver.html) style notation for versioning:
+We will use the [semver](https://devhints.io/semver) style notation for versioning:
 
 >This follows the format MAJOR.MINOR.PATCH (eg, 1.2.6)
 >
